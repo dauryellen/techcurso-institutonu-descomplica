@@ -25,4 +25,12 @@ guarda um ou mais sites, que será acessado e deve retornar os arquivos e inform
 
  O termo URL é a abreviação de Uniform Resource Locator, ou Localizador Uniforme de Recursos. Significa endereço web, ou seja, o texto que você digita na barra de do navegador para acessar uma determinada página ou serviço.
 
- 
+ ## Aula 2 Entendimento do código fonte
+
+ ### Lógica de programação
+
+ Técnica para desenvolver uma sequência de instruções para atingir um objetivo. Independente da linguagem essa é a base, entender a comunicação entre humano e máquina.
+
+ ### Algoritmo
+
+ O guia que vai permitir a máquina entender e chegar até um objetivo.
