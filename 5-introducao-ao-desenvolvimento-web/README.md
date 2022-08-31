@@ -34,3 +34,5 @@ guarda um ou mais sites, que será acessado e deve retornar os arquivos e inform
  ### Algoritmo
 
  O guia que vai permitir a máquina entender e chegar até um objetivo.
+
+ 
