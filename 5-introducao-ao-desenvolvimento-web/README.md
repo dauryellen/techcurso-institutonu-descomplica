@@ -35,4 +35,12 @@ guarda um ou mais sites, que será acessado e deve retornar os arquivos e inform
 
  O guia que vai permitir a máquina entender e chegar até um objetivo.
 
- 
+ ## Aula 3 Como usar HTML?
+
+### O que é o HTML?
+
+**HTML** é uma Linguagem de Marcação de Hipertexto. O HTML **não é uma linguagem de programação**, pois não funciona para dar instruções para a máquina, ela é baseada em marcações, conhecidas como tags, servindo para criar os elementos da web.
+
+### Tags do HTML
+
+Um elemento típico inclui uma tag de abertura com alguns atributos, o conteúdo incluído e uma tag de fechamento.
