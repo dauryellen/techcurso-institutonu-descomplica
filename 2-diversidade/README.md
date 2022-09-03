@@ -25,3 +25,8 @@ tais práticas podem alcançar, somando os interesses de negócios com os sociai
 
 ### 6 - Liderança e Organizações diversificadas
 - Liderança: a necessidade de diverso e inclusivo
+## Aula 2 Diversidade e inclusão na prática
+
+Cuidar para que as contratações de pessoal observem o que se busca com as políticas de diversidade e inclusão, e ainda, implementar ações afirmativas para o fortalecimento das políticas de D&I na organização.
+
+**Diversidade não é pauta, é prática!**
